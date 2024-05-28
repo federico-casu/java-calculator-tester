@@ -1,6 +1,6 @@
 package org.learning.calculator;
 
-public class Calculator {
+public abstract class Calculator {
 
     // ATTRIBUTES
 
